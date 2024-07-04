@@ -4,6 +4,7 @@ import time
 def insert_data(data, conn, cursor):
     for job_id, job_info in data.items():
         if 'error' in job_info:
+            print(f"Error for job {job_id}: {job_info['error']}")
             cursor.execute(f"UPDATE jobs SET scraped = -1 WHERE job_id = ?", (job_id,))
             continue
         company_id = job_info['jobs'].get('company_id')
@@ -14,7 +15,7 @@ def insert_data(data, conn, cursor):
                     values = tuple(job_info[table_name][column] for column in column_names)
                     set_clause = ", ".join([f"{column} = ?" for column in column_names])
                     set_clause += ", scraped = ?"
-                    values_for_update = values + (round(time.time()), job_id)  # Adding the job_id as the last value
+                    values_for_update = values + (1, job_id)  # Set scraped to 1 and add job_id
                     query = f"UPDATE {table_name} SET {set_clause} WHERE job_id = ?"
                     cursor.execute(query, values_for_update)
 

@@ -1,0 +1,110 @@
+{"data": {"standardizedTitle": "urn:li:fs_title: 342", "companyDetails": {"company": "urn:li:fs_normalized_company: 2379156", "*companyResolutionResult": "urn:li:fs_normalized_company: 2379156", "$recipeTypes": ["com.linkedin.voyager.deco.jobs.web.shared.WebJobPostingCompany"
+            ], "$type": "com.linkedin.voyager.jobs.JobPostingCompany"
+        }, "matchType": "none", "employmentStatus": "urn:li:fs_employmentStatus:FULL_TIME", "ownerViewEnabled": "false", "skillMatches": "none", "hiringDashboardViewEnabled": "false", "trackingPixelUrl": "none", "talentHubJob": "false", "formattedLocation": "Peterborough, England, United Kingdom", "companyDescription": {"attributes": [
+                {"start": 273, "length": 1, "type": {"$type": "com.linkedin.pemberly.text.LineBreak"
+                    }, "attributeKindUnion": {"lineBreak": {"$type": "com.linkedin.pemberly.text.LineBreak"
+                        }
+                    }, "$type": "com.linkedin.pemberly.text.Attribute"
+                },
+                {"start": 274, "length": 1, "type": {"$type": "com.linkedin.pemberly.text.LineBreak"
+                    }, "attributeKindUnion": {"lineBreak": {"$type": "com.linkedin.pemberly.text.LineBreak"
+                        }
+                    }, "$type": "com.linkedin.pemberly.text.Attribute"
+                },
+                {"start": 759, "length": 1, "type": {"$type": "com.linkedin.pemberly.text.LineBreak"
+                    }, "attributeKindUnion": {"lineBreak": {"$type": "com.linkedin.pemberly.text.LineBreak"
+                        }
+                    }, "$type": "com.linkedin.pemberly.text.Attribute"
+                },
+                {"start": 760, "length": 1, "type": {"$type": "com.linkedin.pemberly.text.LineBreak"
+                    }, "attributeKindUnion": {"lineBreak": {"$type": "com.linkedin.pemberly.text.LineBreak"
+                        }
+                    }, "$type": "com.linkedin.pemberly.text.Attribute"
+                },
+                {"start": 1109, "length": 1, "type": {"$type": "com.linkedin.pemberly.text.LineBreak"
+                    }, "attributeKindUnion": {"lineBreak": {"$type": "com.linkedin.pemberly.text.LineBreak"
+                        }
+                    }, "$type": "com.linkedin.pemberly.text.Attribute"
+                },
+                {"start": 1110, "length": 1, "type": {"$type": "com.linkedin.pemberly.text.LineBreak"
+                    }, "attributeKindUnion": {"lineBreak": {"$type": "com.linkedin.pemberly.text.LineBreak"
+                        }
+                    }, "$type": "com.linkedin.pemberly.text.Attribute"
+                },
+                {"start": 1620, "length": 1, "type": {"$type": "com.linkedin.pemberly.text.LineBreak"
+                    }, "attributeKindUnion": {"lineBreak": {"$type": "com.linkedin.pemberly.text.LineBreak"
+                        }
+                    }, "$type": "com.linkedin.pemberly.text.Attribute"
+                },
+                {"start": 1621, "length": 1, "type": {"$type": "com.linkedin.pemberly.text.LineBreak"
+                    }, "attributeKindUnion": {"lineBreak": {"$type": "com.linkedin.pemberly.text.LineBreak"
+                        }
+                    }, "$type": "com.linkedin.pemberly.text.Attribute"
+                }
+            ], "text": "Energy Jobline is the largest and fastest growing global Energy Job Board and Energy Hub. We have an audience reach of over 4 million energy professionals,
+            400,
+            000+ monthly advertised global energy and engineering jobs, and work with the leading energy companies worldwide.\n\nWe focus on the Oil & Gas, Renewables, 
+Engineering, Power, and Nuclear markets as well as emerging technologies in EV, Battery, and Fusion. We are committed to providing the most talented energy professionals for our client recruitment campaigns and ensuring we offer the most exciting career opportunities for our jobseekers. Energy Jobline has quickly risen to become the leading and pioneering Energy platform providing online recruitment solutions to the energy industry globally.\n\nOur core values are innovation, inclusivity, commitment, results and diversity. We strive towards these goals across all aspects of our business and that’s why we never stop perfecting our route to market. We appreciate that the energy industry greatest resource is people, that’s why we work with the leading clients and best candidates worldwide.\n\nOur commitment to Women In Energy, BAME and Diversity Groups, as well as unique and passive audiences, aids in setting us apart from our key competitors. No other online recruitment platform has aligned itself with the same breadth and depth of quality partners including female engineering bodies, online energy news hubs, community platforms, industry associations and more. The strength of 
+these partnerships allows us to deliver a database which is exclusive, exceptional and individual to Energy Jobline.\n\nThe team at Energy Jobline focus entirely on delivering value for our clients and candidates, quality is central to everything we do. We have a huge level of loyalty and engagement from our candidates- in which over a third of our candidates only use Energy Jobline for their job search. A figure we are very proud of and work hard to maintain.", "$type": "com.linkedin.pemberly.text.AttributedText"
+        }, "jobPostingUrl": "https: //www.linkedin.com/jobs/view/3961220658/?trk=jobs_biz_prem_srch", "applies": 0, "*allJobHiringTeamMembersInjectionResult": "urn:li:fs_jobHiringTeam:3961220658", "workplaceTypesResolutionResults": {"*urn:li:fs_workplaceType:1": "urn:li:fs_workplaceType:1"}, "poster": "none", "dashEntityUrn": "urn:li:fsd_jobPosting:3961220658", "*employmentStatusResolutionResult": "urn:li:fs_employmentStatus:FULL_TIME", "eligibleForLearningCourseRecsUpsell": "true", "eligibleForSharingProfileWithPoster": "true", "trustReviewDecision": "none", "originalListedAt": 1719547799000, "entityUrn": "urn:li:fs_normalized_jobPosting:3961220658", "workRemoteAllowed": "false", "applyMethod": {"companyApplyUrl": "https://www.energyjobline.com/job/contracts-manager-leading-petrol-forecourts-contractor-21114355", "applyStartersPreferenceVoid": "true", "inPageOffsiteApply": "false", "$type": "com.linkedin.voyager.jobs.OffsiteApply"}, "benefitsDataSource": "JOB_POSTER", "*savingInfo": "urn:li:fs_jobSavingInfo:3961220658", "draftApplicationInfo": "none", "formattedJobFunctions": ["Management", "Manufacturing"], "messagingStatus": "none", "dashJobPostingCardUrn": "urn:li:fsd_jobPostingCard:(3961220658,JOB_DETAILS)", "locationVisibility": "ADDRESS", "appeal": "none", "expireAt": 1722139798000, "$recipeTypes": ["com.linkedin.voyager.deco.jobs.web.shared.WebFullJobPosting"], "$type": "com.linkedin.voyager.jobs.JobPosting", "standardizedAddresses": "none", "claimableByViewer": "false", 
+"inferredBenefits": "none", "formattedIndustries": ["Staffing and Recruiting"
+        ], "industries": [
+            104
+        ], "salaryInsights": {"lockModuleShown": "false", "salaryExplorerUrl": "https: //www.linkedin.com/salary/", "insightExists": "false", "jobCompensationAvailable": "true", "$type": "com.linkedin.voyager.premium.SalaryInsights"}, "country": "urn:li:fs_country:gb", "jobPosterEntitlements": {"entitledToCopyJob": 
+"false", "entitledToAccessJobDashboard": "false", "$type": "com.linkedin.voyager.jobs.JobPosterEntitlements", "entitledToViewFreeJobInfo": "false", "entitledToPromoteJob": "false", "entitledToEditJob": "false", "entitledToViewBillingInfo": "false"
+        }, "*applyingInfo": "urn:li:fs_jobApplyingInfo: 3961220658", "locationUrn": "urn:li:fs_geo: 100559735", "jobApplicationLimitReached": "false", "closedAt": "none", "new": "false", "applicantTrackingSystem": "none", "workplaceTypes": ["urn:li:fs_workplaceType: 1"
+        ], "contentSource": "JOBS_PREMIUM_OFFLINE", "postalAddress": "none", "messagingToken": "none", "formattedExperienceLevel": "Mid-Senior level", "yearsOfExperienceMatch": "none", "jobFunctions": ["MGMT", "MNFC"
+        ], "benefits": [], "encryptedPricingParams": "CwIAAAGQfOns5lD8xB07LkoYpWm50n6XKNSEIQJGXpy5e3DOKtjjQoYS1ytLNmeoDSwCFr_YcKdqFLDiIhwqnmJlLmP1t3nH5_3D0W5tl2ONbYr2BLzMl1XyyIfAeeNXj0-tP_oNDQaibYCNGlJj_PegG1TSvmKj9NJ8m1gCQP6BN9nXBbUtVQy73owk9vamgOdRKdawH20y", "jobState": "SUSPENDED", "trackingUrn": "urn:li:jobPosting: 3961220658", "description": {"attributes": [
+                {"start": 15, "length": 1, "type": {"$type": "com.linkedin.pemberly.text.LineBreak"
+                    }, "attributeKindUnion": {"lineBreak": {"$type": "com.linkedin.pemberly.text.LineBreak"
+                        }
+                    }, "$type": "com.linkedin.pemberly.text.Attribute"
+                },
+                {"start": 16, "length": 1, "type": {"$type": "com.linkedin.pemberly.text.LineBreak"
+                    }, "attributeKindUnion": {"lineBreak": {"$type": "com.linkedin.pemberly.text.LineBreak"
+                        }
+                    }, "$type": "com.linkedin.pemberly.text.Attribute"
+                },
+                {"start": 0, "length": 17, "type": {"$type": "com.linkedin.pemberly.text.Bold"
+                    }, "attributeKindUnion": {"bold": {"$type": "com.linkedin.pemberly.text.Bold"
+                        }
+                    }, "$type": "com.linkedin.pemberly.text.Attribute"
+                }
+            ], "text": "Job Description\n\nContracts Manager – Leading Petrol Forecourts Contractor My Client is a reputable Principal Contractor that is a leading Company in the fuel forecourt industry. Specialising in fuel retail forecourt remediation, refurbishment, redevelopment and maintenance, the company has gained an excellent reputation for delivering solutions for complex projects for major clients including BP Oil, Asda, MSA EXTRA and Motor Fuel Group. Contracts Manager – Leading Petrol Forecourts Contractor They are seeking a Contracts Manager to join their team working on projects across the Country. They would be based at their offices in Essex 1 day per week. Current projects are based within the A1M Corridor & Peterborough. The potential candidate should have previous experience within the Petrol Forecourts industry. If working away from home and lodging is required, this will be covered. Contracts Manager – Leading Petrol Forecourts Contractor Experience The candidate would come from a background of working on Petrol Forecourts, or EV experience. Salary The salary on offer for this role is up to £70k+package,depending upon previous experience. Contracts Manager – Leading Petrol Forecourts Contractor Please Contact Sue Walter For the purposes of the Conduct Regulations 2003 Premises Recruitment Limited acts as an employment agency for permanent recruitment and as an employment business for temporary recruitment. By applying for this job you agree to our Privacy Policy which can be found on our website", "$type": "com.linkedin.pemberly.text.AttributedText"
+        }, "hiringTeamEntitlements": "none", "formattedEmploymentStatus": "Full-time", "repostedJobPosting": "none", "title": "Contracts Manager - Leading Petrol Forecourts Contractor", "skillsDescription": "none", "trustReviewSla": "none", "jobRegion": "none", "thirdPartySourced": "false", "views": 0, "*standardizedTitleResolutionResult": "urn:li:fs_title: 342", "eligibleForReferrals": "false", "listedAt": 1719547799000, "degreeMatches": "none", "jobPostingId": 3961220658, "allowedToEdit": "false", "sourceDomain": "www.energyjobline.com"
+    }, "included": [
+        {"trackingUrn": "none", "followingType": "DEFAULT", "followingCount": "none", "$type": "com.linkedin.voyager.common.FollowingInfo", "entityUrn": "urn:li:fs_followingInfo:urn:li:company: 2379156", "following": "false", "dashFollowingStateUrn": "urn:li:fsd_followingState:urn:li:fsd_company: 2379156", "followerCount": 240377
+        },
+        {"resumeDownloadUrl": "none", "appliedTime": "none", "resumeFileType": "none", "entityUrn": "urn:li:fs_jobApplyingInfo: 3961220658", "applied": "false", "activities": "none", "closed": "false", "viewedByJobPosterAt": "none", "resumeFileName": "none", "appliedAt": "none", "$type": "com.linkedin.voyager.entities.shared.JobApplyingInfo"
+        },
+        {"saved": "false", "entityUrn": "urn:li:fs_jobSavingInfo: 3961220658", "savedAt": "none", "dashSaveStateUrn": "urn:li:fsd_saveState:(SAVE,urn:li:fsd_jobPosting: 3961220658)", "$type": "com.linkedin.voyager.entities.shared.JobSavingInfo"
+        },
+        {"entityUrn": "urn:li:fs_jobHiringTeam: 3961220658", "hiringTeamMembers": [], "$recipeTypes": ["com.linkedin.voyager.deco.jobs.web.shared.WebAllJobHiringTeamMembers"
+            ], "$type": "com.linkedin.voyager.jobs.JobHiringTeam"
+        },
+        {"localizedName": "Full-time", "entityUrn": "urn:li:fs_employmentStatus:FULL_TIME", "$recipeTypes": ["com.linkedin.voyager.deco.jobs.shared.WebFullEmploymentStatus"
+            ], "$type": "com.linkedin.voyager.jobs.shared.EmploymentStatus"
+        },
+        {"localizedName": "Contract Manager", 
+"entityUrn": "urn:li:fs_title: 342", "$recipeTypes": ["com.linkedin.voyager.deco.jobs.web.shared.WebFullTitle"
+            ], "$type": "com.linkedin.voyager.jobs.shared.Title"
+        },
+        {"localizedName": "On-site", "entityUrn": "urn:li:fs_workplaceType: 1", "$recipeTypes": ["com.linkedin.voyager.deco.jobs.shared.WebJobDetailsWorkplaceType"
+            ], "$type": "com.linkedin.voyager.jobs.shared.WorkplaceType"
+        },
+        {"description": "Energy Jobline is the largest and fastest growing global Energy Job Board and Energy Hub. We have an audience reach of over 4 million energy professionals,
+            400,
+            000+ monthly advertised global energy and engineering jobs, and work with the leading energy companies worldwide.\n\nWe focus on the Oil & Gas, Renewables, Engineering, Power, and Nuclear markets as well as emerging technologies in EV, Battery, and Fusion. We are committed to providing the most talented energy professionals for our client recruitment campaigns and ensuring we offer the most exciting career opportunities for our jobseekers. Energy Jobline has quickly risen to become the leading and pioneering Energy platform providing online recruitment solutions to the energy industry globally.\n\nOur core values are innovation, inclusivity, commitment, results and diversity. We strive towards these goals across all aspects of our business and that’s why we never stop perfecting our route to market. We appreciate that the energy industry greatest resource is people, that’s why we work with the leading clients and best candidates worldwide.\n\nOur commitment to Women In Energy, BAME and Diversity Groups, as well as unique and passive audiences, aids in setting us apart from our key competitors. No other online recruitment platform has aligned itself with the same breadth and depth of quality partners including female engineering bodies, online energy news hubs, community platforms, industry associations and more. The strength of these partnerships allows us to deliver a database which is exclusive, exceptional and individual to Energy Jobline.\n\nThe team at Energy Jobline focus entirely on delivering value for our clients and candidates, quality is central to everything we do. We have a huge level of loyalty and engagement from our candidates- in which over a third of our candidates only use Energy Jobline for their job search. A figure we are very proud of and work hard to maintain.", "staffCount": 79, "viewerFollowingJobsUpdates": "false", "entityUrn": "urn:li:fs_normalized_company: 2379156", "staffCountRange": {"start": 11, "end": 50, "$type": "com.linkedin.voyager.organization.shared.StaffCountRange"
+            }, "headquarter": {"geographicArea": "England", "country": "GB", "city": "Alderley Edge", "postalCode": "", "line1": "Congleton Road", "$type": "com.linkedin.common.Address"
+            }, "logo": {"image": {"$type": "com.linkedin.common.VectorImage", "rootUrl": "https: //media.licdn.com/dms/image/D4E0BAQGosB8IEKVn-Q/company-logo_", "artifacts": [{"width": 200, "expiresAt": 1727913600000, "fileIdentifyingUrlPathSegment": "200_200/0/1667386347844/energy_jobline_logo?e=1727913600&v=beta&t=EVd9OHkrGDESZo8J2_U2rx7V6IqnywDK6vxpNpJrAuA", "$type": "com.linkedin.common.VectorArtifact", "height": 200}, {"width": 100, "expiresAt": 1727913600000, "fileIdentifyingUrlPathSegment": "100_100/0/1667386347844/energy_jobline_logo?e=1727913600&v=beta&t=bP3HpElgX1PSqZHhvYTEU95KSwdlL4jUhqc9liQJEUQ", "$type": "com.linkedin.common.VectorArtifact", "height": 100}, {"width": 400, "expiresAt": 1727913600000, "fileIdentifyingUrlPathSegment": "400_400/0/1667386347844/energy_jobline_logo?e=1727913600&v=beta&t=zATBvqq8oo6OgPobRiBW5M8ZehzlyO1BeGZFFD3g7MI", "$type": "com.linkedin.common.VectorArtifact", "height": 400}]}, "type": "SQUARE_LOGO", "$type": "com.linkedin.voyager.organization.CompanyLogoImage"}, "universalName": "energy-jobline", "specialities": ["Energy Jobs", "Oil and Gas Jobs", "Renewable Energy Jobs", "Power Jobs", "Nuclear Jobs", "EV Jobs", "Battery Jobs", "Fusion Jobs", "Engineering Jobs", "Petrochemicals Jobs", "LNG Jobs", "Hydrogen Jobs", "Energy News", "Sustainability", "Clean Energy", "Wind Jobs", "Solar Jobs", "Hydro Jobs", "Mining Jobs", "Construction Jobs"], "coverPhoto": {"$type": "com.linkedin.voyager.common.MediaProcessorImage", "id": "/AAEAAQAAAAAAAATFAAAAJDg5MjIwOWQ1LTU5MzQtNDVlMS05NjZlLWZlMTA2NDY3NmM0ZQ.png"}, "*followingInfo": "urn:li:fs_followingInfo:urn:li:company:2379156", "$recipeTypes": ["com.linkedin.voyager.deco.organization.shared.WebJobCompany"], "url": "https://www.linkedin.com/company/energy-jobline", "$type": "com.linkedin.voyager.organization.Company", "lcpTreatment": "false", "industries": ["Staffing and Recruiting"], "name": "Energy Jobline", "backgroundCoverImage": {"image": {"$type": "com.linkedin.common.VectorImage", "rootUrl": "https://media.licdn.com/dms/image/D4E3DAQFK_WJDQ5dRQw/image-scale_1", "artifacts": [{"width": 749, "expiresAt": 1720688400000, "fileIdentifyingUrlPathSegment": "27_750/0/1667386828450/energy_jobline_cover?e=1720688400&v=beta&t=U06l1eyGHSJ8l6V58DJDTlzUI4by0SiYUgAAlq2KjYs", "$type": "com.linkedin.common.VectorArtifact", "height": 127}, {"width": 108, "expiresAt": 1720688400000, "fileIdentifyingUrlPathSegment": 
+"08_640/0/1667386828450/energy_jobline_cover?e=1720688400&v=beta&t=vwJAkIWjPrHxG3JPPL1Ta69NCbvWm_GGGicfZ0ifdZI", "$type": "com.linkedin.common.VectorArtifact", "height": 18
+                },
+                {"width": 1128, "expiresAt": 1720688400000, "fileIdentifyingUrlPathSegment": "91_1128/0/1667386828450/energy_jobline_cover?e=1720688400&v=beta&t=vb1bbIsZ-wzFw2vsKhQyMciSrfzIBUDfj8RcC2K5qGU", "$type": "com.linkedin.common.VectorArtifact", "height": 191
+                }
+            ]
+        }, "$type": "com.linkedin.voyager.identity.profile.BackgroundImage", "cropInfo": {"width": 1128, "x": 0, "y": 0, "$type": "com.linkedin.voyager.identity.profile.ImageCropInfo", "height": 191
+        }
+    }
+}
+]
+}

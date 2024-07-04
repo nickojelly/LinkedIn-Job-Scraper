@@ -163,3 +163,17 @@ def create_tables(conn, cursor):
 
     conn.commit()
     return True
+
+def add_new_columns(conn, cursor):
+    # Check if the new columns exist, add them if they don't
+    cursor.execute("PRAGMA table_info(jobs)")
+    columns = [column[1] for column in cursor.fetchall()]
+    
+    if 'country' not in columns:
+        cursor.execute("ALTER TABLE jobs ADD COLUMN country TEXT")
+    if 'country_code' not in columns:
+        cursor.execute("ALTER TABLE jobs ADD COLUMN country_code TEXT")
+    if 'sponsored' not in columns:
+        cursor.execute("ALTER TABLE jobs ADD COLUMN sponsored BOOLEAN")
+
+    conn.commit()

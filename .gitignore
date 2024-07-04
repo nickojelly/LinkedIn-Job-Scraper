@@ -8,3 +8,9 @@
 # E.g. linkedin_jobs.db.bak, linkedin_jobs_uk.db
 /linkedin_jobs_*.db
 /linkedin_jobs.db.*
+proxies.py
+*.log
+*.1
+*.2
+*.csv
+*.db

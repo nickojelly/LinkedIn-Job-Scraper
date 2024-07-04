@@ -1,0 +1,394 @@
+{
+    "data": {
+        "standardizedTitle": "urn:li:fs_title:25764",
+        "companyDetails": {
+            "company": "urn:li:fs_normalized_company:102597863",
+            "*companyResolutionResult": "urn:li:fs_normalized_company:102597863",
+            "$recipeTypes": [
+                "com.linkedin.voyager.deco.jobs.web.shared.WebJobPostingCompany"
+            ],
+            "$type": "com.linkedin.voyager.jobs.JobPostingCompany"
+        },
+        "matchType": null,
+        "employmentStatus": "urn:li:fs_employmentStatus:FULL_TIME",
+        "ownerViewEnabled": false,
+        "skillMatches": null,
+        "hiringDashboardViewEnabled": false,
+        "trackingPixelUrl": null,
+        "talentHubJob": false,
+        "formattedLocation": "Greater Paris Metropolitan Region",
+        "companyDescription": null,
+        "jobPostingUrl": "https://www.linkedin.com/jobs/view/3966286973/?trk=jobs_biz_prem_srch",
+        "applies": 1,
+        "*allJobHiringTeamMembersInjectionResult": "urn:li:fs_jobHiringTeam:3966286973",
+        "workplaceTypesResolutionResults": {
+            "*urn:li:fs_workplaceType:3": "urn:li:fs_workplaceType:3"
+        },
+        "poster": null,
+        "dashEntityUrn": "urn:li:fsd_jobPosting:3966286973",
+        "*employmentStatusResolutionResult": "urn:li:fs_employmentStatus:FULL_TIME",
+        "eligibleForLearningCourseRecsUpsell": true,
+        "eligibleForSharingProfileWithPoster": false,
+        "trustReviewDecision": null,
+        "originalListedAt": 1720014078000,
+        "entityUrn": "urn:li:fs_normalized_jobPosting:3966286973",
+        "workRemoteAllowed": false,
+        "applyMethod": {
+            "type": "CONTACT_INFORMATION",
+            "unifyApplyEnabled": true,
+            "$type": "com.linkedin.voyager.jobs.SimpleOnsiteApply"
+        },
+        "benefitsDataSource": "JOB_POSTER",
+        "*savingInfo": "urn:li:fs_jobSavingInfo:3966286973",
+        "draftApplicationInfo": null,
+        "formattedJobFunctions": [],
+        "messagingStatus": null,
+        "dashJobPostingCardUrn": "urn:li:fsd_jobPostingCard:(3966286973,JOB_DETAILS)",
+        "locationVisibility": "ADDRESS",
+        "appeal": null,
+        "expireAt": 1722606078000,
+        "$recipeTypes": [
+            "com.linkedin.voyager.deco.jobs.web.shared.WebFullJobPosting"
+        ],
+        "$type": "com.linkedin.voyager.jobs.JobPosting",
+        "standardizedAddresses": null,
+        "claimableByViewer": false,
+        "inferredBenefits": null,
+        "formattedIndustries": [],
+        "industries": [
+            96
+        ],
+        "salaryInsights": {
+            "lockModuleShown": false,
+            "salaryExplorerUrl": "https://www.linkedin.com/salary/",
+            "insightExists": false,
+            "jobCompensationAvailable": true,
+            "$type": "com.linkedin.voyager.premium.SalaryInsights"
+        },
+        "country": "urn:li:fs_country:fr",
+        "jobPosterEntitlements": {
+            "entitledToCopyJob": true,
+            "entitledToAccessJobDashboard": true,
+            "$type": "com.linkedin.voyager.jobs.JobPosterEntitlements",
+            "entitledToViewFreeJobInfo": true,
+            "entitledToPromoteJob": true,
+            "entitledToEditJob": true,
+            "entitledToViewBillingInfo": false
+        },
+        "*applyingInfo": "urn:li:fs_jobApplyingInfo:3966286973",
+        "locationUrn": "urn:li:fs_geo:90009659",
+        "jobApplicationLimitReached": false,
+        "closedAt": null,
+        "new": true,
+        "applicantTrackingSystem": null,
+        "workplaceTypes": [
+            "urn:li:fs_workplaceType:3"
+        ],
+        "contentSource": "JOBS_PREMIUM",
+        "postalAddress": null,
+        "messagingToken": null,
+        "formattedExperienceLevel": "",
+        "yearsOfExperienceMatch": null,
+        "jobFunctions": [
+            "ENG",
+            "IT"
+        ],
+        "benefits": [],
+        "encryptedPricingParams": "CwIAAAGQeOUupS9aXe_bbTwRlxgNdPbXv4vpJJjsrs49R8cw8PRwkSG-NOp6uhLW-cG1Dv_TpfXYOCOqPJUNir5NQMZPMw_z84AQJN1MvMSlrCKn3VjoTFAZPjNAaNsaeZ3Vs6BUlyb-kl_aE6qDGDSd3Wz83qfBMFwlJfbAvYMHJlxnlAlHXd3RKC0U1iJsfvM8XY1Q-U4",
+        "jobState": "LISTED",
+        "trackingUrn": "urn:li:jobPosting:3966286973",
+        "description": {
+            "attributes": [
+                {
+                    "start": 47,
+                    "length": 18,
+                    "type": {
+                        "$type": "com.linkedin.pemberly.text.Bold"
+                    },
+                    "attributeKindUnion": {
+                        "bold": {
+                            "$type": "com.linkedin.pemberly.text.Bold"
+                        }
+                    },
+                    "$type": "com.linkedin.pemberly.text.Attribute"
+                },
+                {
+                    "start": 0,
+                    "length": 77,
+                    "type": {
+                        "$type": "com.linkedin.pemberly.text.Paragraph"
+                    },
+                    "attributeKindUnion": {
+                        "paragraph": {
+                            "$type": "com.linkedin.pemberly.text.Paragraph"
+                        }
+                    },
+                    "$type": "com.linkedin.pemberly.text.Attribute"
+                },
+                {
+                    "start": 77,
+                    "length": 1,
+                    "type": {
+                        "$type": "com.linkedin.pemberly.text.LineBreak"
+                    },
+                    "attributeKindUnion": {
+                        "lineBreak": {
+                            "$type": "com.linkedin.pemberly.text.LineBreak"
+                        }
+                    },
+                    "$type": "com.linkedin.pemberly.text.Attribute"
+                },
+                {
+                    "start": 77,
+                    "length": 1,
+                    "type": {
+                        "$type": "com.linkedin.pemberly.text.Paragraph"
+                    },
+                    "attributeKindUnion": {
+                        "paragraph": {
+                            "$type": "com.linkedin.pemberly.text.Paragraph"
+                        }
+                    },
+                    "$type": "com.linkedin.pemberly.text.Attribute"
+                },
+                {
+                    "start": 78,
+                    "length": 20,
+                    "type": {
+                        "$type": "com.linkedin.pemberly.text.Paragraph"
+                    },
+                    "attributeKindUnion": {
+                        "paragraph": {
+                            "$type": "com.linkedin.pemberly.text.Paragraph"
+                        }
+                    },
+                    "$type": "com.linkedin.pemberly.text.Attribute"
+                },
+                {
+                    "start": 98,
+                    "length": 19,
+                    "type": {
+                        "$type": "com.linkedin.pemberly.text.ListItem"
+                    },
+                    "attributeKindUnion": {
+                        "listItem": {
+                            "$type": "com.linkedin.pemberly.text.ListItem"
+                        }
+                    },
+                    "$type": "com.linkedin.pemberly.text.Attribute"
+                },
+                {
+                    "start": 117,
+                    "length": 27,
+                    "type": {
+                        "$type": "com.linkedin.pemberly.text.ListItem"
+                    },
+                    "attributeKindUnion": {
+                        "listItem": {
+                            "$type": "com.linkedin.pemberly.text.ListItem"
+                        }
+                    },
+                    "$type": "com.linkedin.pemberly.text.Attribute"
+                },
+                {
+                    "start": 144,
+                    "length": 69,
+                    "type": {
+                        "$type": "com.linkedin.pemberly.text.ListItem"
+                    },
+                    "attributeKindUnion": {
+                        "listItem": {
+                            "$type": "com.linkedin.pemberly.text.ListItem"
+                        }
+                    },
+                    "$type": "com.linkedin.pemberly.text.Attribute"
+                },
+                {
+                    "start": 98,
+                    "length": 115,
+                    "type": {
+                        "ordered": false,
+                        "$type": "com.linkedin.pemberly.text.List"
+                    },
+                    "attributeKindUnion": {
+                        "list": {
+                            "ordered": false,
+                            "$type": "com.linkedin.pemberly.text.List"
+                        }
+                    },
+                    "$type": "com.linkedin.pemberly.text.Attribute"
+                },
+                {
+                    "start": 213,
+                    "length": 1,
+                    "type": {
+                        "$type": "com.linkedin.pemberly.text.LineBreak"
+                    },
+                    "attributeKindUnion": {
+                        "lineBreak": {
+                            "$type": "com.linkedin.pemberly.text.LineBreak"
+                        }
+                    },
+                    "$type": "com.linkedin.pemberly.text.Attribute"
+                },
+                {
+                    "start": 213,
+                    "length": 1,
+                    "type": {
+                        "$type": "com.linkedin.pemberly.text.Paragraph"
+                    },
+                    "attributeKindUnion": {
+                        "paragraph": {
+                            "$type": "com.linkedin.pemberly.text.Paragraph"
+                        }
+                    },
+                    "$type": "com.linkedin.pemberly.text.Attribute"
+                },
+                {
+                    "start": 214,
+                    "length": 22,
+                    "type": {
+                        "$type": "com.linkedin.pemberly.text.Paragraph"
+                    },
+                    "attributeKindUnion": {
+                        "paragraph": {
+                            "$type": "com.linkedin.pemberly.text.Paragraph"
+                        }
+                    },
+                    "$type": "com.linkedin.pemberly.text.Attribute"
+                },
+                {
+                    "start": 236,
+                    "length": 12,
+                    "type": {
+                        "$type": "com.linkedin.pemberly.text.ListItem"
+                    },
+                    "attributeKindUnion": {
+                        "listItem": {
+                            "$type": "com.linkedin.pemberly.text.ListItem"
+                        }
+                    },
+                    "$type": "com.linkedin.pemberly.text.Attribute"
+                },
+                {
+                    "start": 248,
+                    "length": 16,
+                    "type": {
+                        "$type": "com.linkedin.pemberly.text.ListItem"
+                    },
+                    "attributeKindUnion": {
+                        "listItem": {
+                            "$type": "com.linkedin.pemberly.text.ListItem"
+                        }
+                    },
+                    "$type": "com.linkedin.pemberly.text.Attribute"
+                },
+                {
+                    "start": 264,
+                    "length": 18,
+                    "type": {
+                        "$type": "com.linkedin.pemberly.text.ListItem"
+                    },
+                    "attributeKindUnion": {
+                        "listItem": {
+                            "$type": "com.linkedin.pemberly.text.ListItem"
+                        }
+                    },
+                    "$type": "com.linkedin.pemberly.text.Attribute"
+                },
+                {
+                    "start": 282,
+                    "length": 11,
+                    "type": {
+                        "$type": "com.linkedin.pemberly.text.ListItem"
+                    },
+                    "attributeKindUnion": {
+                        "listItem": {
+                            "$type": "com.linkedin.pemberly.text.ListItem"
+                        }
+                    },
+                    "$type": "com.linkedin.pemberly.text.Attribute"
+                },
+                {
+                    "start": 293,
+                    "length": 14,
+                    "type": {
+                        "$type": "com.linkedin.pemberly.text.ListItem"
+                    },
+                    "attributeKindUnion": {
+                        "listItem": {
+                            "$type": "com.linkedin.pemberly.text.ListItem"
+                        }
+                    },
+                    "$type": "com.linkedin.pemberly.text.Attribute"
+                },
+                {
+                    "start": 307,
+                    "length": 12,
+                    "type": {
+                        "$type": "com.linkedin.pemberly.text.ListItem"
+                    },
+                    "attributeKindUnion": {
+                        "listItem": {
+                            "$type": "com.linkedin.pemberly.text.ListItem"
+                        }
+                    },
+                    "$type": "com.linkedin.pemberly.text.Attribute"
+                },
+                {
+                    "start": 319,
+                    "length": 49,
+                    "type": {
+                        "$type": "com.linkedin.pemberly.text.ListItem"
+                    },
+                    "attributeKindUnion": {
+                        "listItem": {
+                            "$type": "com.linkedin.pemberly.text.ListItem"
+                        }
+                    },
+                    "$type": "com.linkedin.pemberly.text.Attribute"
+                },
+                {
+                    "start": 236,
+                    "length": 132,
+                    "type": {
+                        "ordered": false,
+                        "$type": "com.linkedin.pemberly.text.List"
+                    },
+                    "attributeKindUnion": {
+                        "list": {
+                            "ordered": false,
+                            "$type": "com.linkedin.pemberly.text.List"
+                        }
+                    },
+                    "$type": "com.linkedin.pemberly.text.Attribute"
+                },
+                {
+                    "start": 368,
+                    "length": 1,
+                    "type": {
+                        "$type": "com.linkedin.pemberly.text.LineBreak"
+                    },
+                    "attributeKindUnion": {
+                        "lineBreak": {
+                            "$type": "com.linkedin.pemberly.text.LineBreak"
+                        }
+                    },
+                    "$type": "com.linkedin.pemberly.text.Attribute"
+                },
+                {
+                    "start": 368,
+                    "length": 1,
+                    "type": {
+                        "$type": "com.linkedin.pemberly.text.Paragraph"
+                    },
+                    "attributeKindUnion": {
+                        "paragraph": {
+                            "$type": "com.linkedin.pemberly.text.Paragraph"
+                        }
+                    },
+                    "$type": "com.linkedin.pemberly.text.Attribute"
+                }
+            ],
+            "text":"Nous recherchons un ingénieur DevOps confirmé (5 ans d'XP minimum) sur Paris.\nTâches principales :Gestion de la CI/CDMise en place de KubernetesImplémentation du monitoring, des pratiques de sécurité et conformité\nCompétences requises :Linux DebianGitlab/Gitlab CIDocker, KubernetesPython/BashVirtualisationSécurité/SSHNodejs, Java, PostgreSQL, MariaDB (connaissances)\n","$type":"com.linkedin.pemberly.text.AttributedText"},"hiringTeamEntitlements":null,"formattedEmploymentStatus":"Full-time","repostedJobPosting":null,"title":"Ingénieur DevOps/Ingénieure DevOps","skillsDescription":null,"trustReviewSla":null,"jobRegion":null,"thirdPartySourced":false,"views":8,"*standardizedTitleResolutionResult":"urn:li:fs_title: 25764","eligibleForReferrals":false,"listedAt":1720014078000,"degreeMatches":null,"jobPostingId":3966286973,"allowedToEdit":false,"sourceDomain":null},"included":[{"trackingUrn":null,"followingType":"DEFAULT","followingCount":null,"$type":"com.linkedin.voyager.common.FollowingInfo","entityUrn":"urn:li:fs_followingInfo:urn:li:company: 102597863","following":false,"dashFollowingStateUrn":"urn:li:fsd_followingState:urn:li:fsd_company: 102597863","followerCount":402},{"resumeDownloadUrl":null,"appliedTime":null,"resumeFileType":null,"entityUrn":"urn:li:fs_jobApplyingInfo: 3966286973","applied":false,"activities":null,"closed":false,"viewedByJobPosterAt":null,"resumeFileName":null,"appliedAt":null,"$type":"com.linkedin.voyager.entities.shared.JobApplyingInfo"},{"saved":false,"entityUrn":"urn:li:fs_jobSavingInfo: 3966286973","savedAt":null,"dashSaveStateUrn":"urn:li:fsd_saveState:(SAVE,urn:li:fsd_jobPosting: 3966286973)","$type":"com.linkedin.voyager.entities.shared.JobSavingInfo"},{"entityUrn":"urn:li:fs_jobHiringTeam: 3966286973","hiringTeamMembers":[],"$recipeTypes":["com.linkedin.voyager.deco.jobs.web.shared.WebAllJobHiringTeamMembers"],"$type":"com.linkedin.voyager.jobs.JobHiringTeam"},{"localizedName":"Full-time","entityUrn":"urn:li:fs_employmentStatus:FULL_TIME","$recipeTypes":["com.linkedin.voyager.deco.jobs.shared.WebFullEmploymentStatus"],"$type":"com.linkedin.voyager.jobs.shared.EmploymentStatus"},{"localizedName":"DevOps Engineer","entityUrn":"urn:li:fs_title: 25764","$recipeTypes":["com.linkedin.voyager.deco.jobs.web.shared.WebFullTitle"],"$type":"com.linkedin.voyager.jobs.shared.Title"},{"localizedName":"Hybrid","entityUrn":"urn:li:fs_workplaceType: 3","$recipeTypes":["com.linkedin.voyager.deco.jobs.shared.WebJobDetailsWorkplaceType"],"$type":"com.linkedin.voyager.jobs.shared.WorkplaceType"},{"description":"Société de conseil spécialisée dans les métiers de l’IT et du Digital, Andema est basée à Paris et à Lyon. Nous proposons des services adaptés aux besoins de nos clients pour garantir la réussite de chaque projet et simplifions cette démarche en connectant nos clients avec des consultants compétents, partageant leurs valeurs et s'investissant pleinement dans leur mission.\n\nNous sommes convaincus que le succès des projets de nos clients dépend de l'épanouissement professionnel et personnel de nos collaborateurs. C'est pourquoi nous plaçons l'humain au cœur de nos priorités.\n\nRejoindre l’aventure Andema, c'est évoluer dans un environnement fondé sur la transparence, la collaboration, l'intrapreneuriat, l'amélioration continue et le plaisir de travailler ensemble. Vous être un professionnel de l’IT et souhaitez rejoindre notre communauté ? Envoyez nous votre CV, nous 
+serons ravis de faire votre connaissance.","staffCount":5,"viewerFollowingJobsUpdates":false,"entityUrn":"urn:li:fs_normalized_company: 102597863","staffCountRange":{"start":11,"end":50,"$type":"com.linkedin.voyager.organization.shared.StaffCountRange"},"headquarter":{"geographicArea":"Île-de-France","country":"FR","city":"Paris","postalCode":"75002","line1":"21, Rue de Cléry","$type":"com.linkedin.common.Address"},"logo":{"image":{"$type":"com.linkedin.common.VectorImage","rootUrl":"https: //media.licdn.com/dms/image/D4E0BAQHdYQ4FtuCJaQ/company-logo_","artifacts":[{"width":200,"expiresAt":1727913600000,"fileIdentifyingUrlPathSegment":"200_200/0/1708613316909?e=1727913600&v=beta&t=WXqSEHjZyem6J07FAoHemK9msFdWGrDVlF0d6T8UPEQ","$type":"com.linkedin.common.VectorArtifact","height":200},{"width":100,"expiresAt":1727913600000,"fileIdentifyingUrlPathSegment":"100_100/0/1708613316909?e=1727913600&v=beta&t=8lhvlP-QYoeDOnsm4Ufq7qgYNQ1ZMquZy3_-MnBiNbA","$type":"com.linkedin.common.VectorArtifact","height":100},{"width":400,"expiresAt":1727913600000,"fileIdentifyingUrlPathSegment":"400_400/0/1708613316909?e=1727913600&v=beta&t=Fkxzf3glA2tzuBOUzhE5A-Nf1r4OxueUCQqS9lSjGqo","$type":"com.linkedin.common.VectorArtifact","height":400}]},"type":"SQUARE_LOGO","$type":"com.linkedin.voyager.organization.CompanyLogoImage"},"universalName":"andema-esn","specialities":[],"coverPhoto":null,"*followingInfo":"urn:li:fs_followingInfo:urn:li:company:102597863","$recipeTypes":["com.linkedin.voyager.deco.organization.shared.WebJobCompany"],"url":"https://www.linkedin.com/company/andema-esn","$type":"com.linkedin.voyager.organization.Company","lcpTreatment":false,"industries":["IT Services and IT Consulting"],"name":"Andema","backgroundCoverImage":{"image":{"$type":"com.linkedin.common.VectorImage","rootUrl":"https://media.licdn.com/dms/image/D563DAQGGvIT3bULcBQ/image-scale_1","artifacts":[{"width":750,"expiresAt":1720623600000,"fileIdentifyingUrlPathSegment":"27_750/0/1719325189433/andema_esn_cover?e=1720623600&v=beta&t=5WNAAv08mU6y0sz2Cyyp87N3sZYDE-kjUN1pICYDyrw","$type":"com.linkedin.common.VectorArtifact","height":126},{"width":108,"expiresAt":1720623600000,"fileIdentifyingUrlPathSegment":"08_640/0/1719325189433/andema_esn_cover?e=1720623600&v=beta&t=yTRmAS-tB0XSY0L59dE2pvnppAvlhaa6z0QT6TeQ714","$type":"com.linkedin.common.VectorArtifact","height":18},{"width":1128,"expiresAt":1720623600000,"fileIdentifyingUrlPathSegment":"91_1128/0/1719325189427/andema_esn_cover?e=1720623600&v=beta&t=MC7l7c6z5DBUEwdunSMXiQKL8ELcQmYzrkpRlBPTKRU","$type":"com.linkedin.common.VectorArtifact","height":191}]},"$type":"com.linkedin.voyager.identity.profile.BackgroundImage","cropInfo":{"width":1128,"x":0,"y":0,"$type":"com.linkedin.voyager.identity.profile.ImageCropInfo","height":191}}}]}
